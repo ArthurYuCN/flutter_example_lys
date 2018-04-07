@@ -1,0 +1,15 @@
+.DS_Store
+.atom/
+*.iml
+*.lock
+.metadata
+.dart_tool/
+.idea
+/test
+.vscode/
+.packages
+.pub/
+build/
+ios/.generated/
+packages
+.flutter-plugins
